@@ -7,8 +7,6 @@
   }
 
   function reset() {
-    console.log(this);
-
     this.classList.remove('playing');
   }
 
