@@ -32,6 +32,12 @@ body {
     padding: 5px;
     border: 5px solid #ffffff;
     border-radius: 5px;
+    transition: all .07s;
+}
+
+.playing {
+    border: 5px solid #ffff00;
+    font-size: 1.1em;
 }
 
 .key__letter {
